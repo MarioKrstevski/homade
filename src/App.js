@@ -16,8 +16,10 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Homade
         </a>
+
+        <h3>Home made food available for everyone</h3>
       </header>
     </div>
   );
